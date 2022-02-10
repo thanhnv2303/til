@@ -37,10 +37,6 @@ _6 TILs and counting..._
 
 ---
 
-## Usage <!-- omit in toc -->
-
-Run the `update_tils.py` file to update the TIL count in the README.
-
 ## Inspiration <!-- omit in toc -->
 
 I got the inspiration for this from [Josh Branchaud](https://joshbranchaud.com/)'s repository [jbranchaud/til](https://github.com/jbranchaud/til). I first read about the idea of documenting what I learn in [Shawn Wang](https://www.swyx.io/)'s blog [Learn in Public](https://www.swyx.io/learn-in-public/).

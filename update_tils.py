@@ -2,10 +2,12 @@
 count_tils.py
 Updates the number of TIL files (All Markdown
 files except the README.md) in the README
+and adds it to the staging area.
 """
 
 import os
 import re
+import subprocess
 
 
 def get_readme_contents():
@@ -45,3 +47,8 @@ if __name__ == "__main__":
     write_readme_contents(readme_contents)
 
     print(f"Updated the number of TILs in the README.md to {til_count}")
+
+    # Add the modified README file to the staging area for it to be committed
+    subprocess.run(["git", "add", "README.md"])
+
+    print("README.md added to the staging area.")
