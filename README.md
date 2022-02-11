@@ -2,7 +2,7 @@
 
 A collection of small snippets of mostly technical stuff that I learn and get back to regularly.
 
-_6 TILs and counting..._
+_9 TILs and counting..._
 
 ---
 
@@ -17,6 +17,8 @@ _6 TILs and counting..._
 ### Git
 
 -   [Consistent LF Endings in Git](git/consistent-lf-endings.md)
+-   [Delete Remote Branch](git/delete-remote-branch.md)
+-   [A better Git Log](git/better-git-log.md)
 
 ### Google Colab
 
@@ -34,6 +36,7 @@ _6 TILs and counting..._
 ### Python
 
 -   [Store a Dictionary with Numpy Arrays as a JSON object](python/store-dictionary-with-numpy-arrays-as-json.md)
+-   [Fix Dependency Errors in Conda](python/fix-dependency-errors-in-conda.md)
 
 ---
 

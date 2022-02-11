@@ -4,6 +4,6 @@ Working with Git to sync files across multiple machines (especially Windows and 
 
 To ensure that line endings are consistent across all machines, we can add the following line to `.gitattributes` file of the repository to make sure that all files are LF line endings by default:
 
-```git
+```bash
 * text=auto eol=lf
 ```
