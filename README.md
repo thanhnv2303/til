@@ -2,7 +2,7 @@
 
 A collection of small snippets of mostly technical stuff that I learn and get back to regularly.
 
-_9 TILs and counting..._
+_10 TILs and counting..._
 
 ---
 
@@ -19,6 +19,7 @@ _9 TILs and counting..._
 -   [Consistent LF Endings in Git](git/consistent-lf-endings.md)
 -   [Delete Remote Branch](git/delete-remote-branch.md)
 -   [A better Git Log](git/better-git-log.md)
+-   [Uncommit last Commit](git/uncommit-last-commit.md)
 
 ### Google Colab
 
