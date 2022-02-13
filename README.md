@@ -2,7 +2,7 @@
 
 A collection of small snippets of mostly technical stuff that I learn and get back to regularly.
 
-_10 TILs and counting..._
+_11 TILs and counting..._
 
 ---
 
@@ -11,6 +11,7 @@ _10 TILs and counting..._
 - [Git](#git)
 - [Google Colab](#google-colab)
 - [Jupyter](#jupyter)
+- [Numerics](#numerics)
 - [PowerShell](#powershell)
 - [Python](#python)
 
@@ -29,6 +30,10 @@ _10 TILs and counting..._
 ### Jupyter
 
 -   [Show Execution Time for each Cell](jupyter/show-cell-execution-time.md)
+
+### Numerics
+
+-   [Finding the average of two very big integers](numerics/finding-the-average-of-two-very-big-integers.md)
 
 ### PowerShell
 
