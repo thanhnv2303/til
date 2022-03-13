@@ -1,4 +1,4 @@
-# Dark Mode
+# Add Dark Mode Stylesheet
 
 ```css
 /* Light mode by default */

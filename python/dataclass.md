@@ -1,4 +1,4 @@
-# Python Dataclass
+# Use Dataclass to automatically create special functions
 
 Python's DataClass Module are similar to [Java's Lombok decorators](../java/lombok.md). Automatically creates the following special methods for a class:
 

@@ -2,7 +2,7 @@
 
 A collection of small snippets of mostly technical stuff that I learn and get back to regularly. Though, this repo feels more like a Note to Self than a collection of snippets.
 
-_16 TILs and counting..._
+_17 TILs and counting..._
 
 ---
 
@@ -25,7 +25,7 @@ _16 TILs and counting..._
 
 ### CSS
 
--   [Dark Mode](css/dark-mode.md)
+-   [Add Dark Mode Stylesheet](css/dark-mode.md)
 
 ### Git
 
@@ -59,7 +59,8 @@ _16 TILs and counting..._
 
 -   [Store a Dictionary with Numpy Arrays as a JSON object](python/store-dictionary-with-numpy-arrays-as-json.md)
 -   [Fix Dependency Errors in Conda](python/fix-dependency-errors-in-conda.md)
--   [Python Dataclass](python/python-dataclass.md)
+-   [Use Dataclass to automatically create special functions](python/dataclass.md)
+-   [Default Dictionary Values](python/defaultdict.md)
 
 ---
 
