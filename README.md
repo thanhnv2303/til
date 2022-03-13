@@ -2,13 +2,14 @@
 
 A collection of small snippets of mostly technical stuff that I learn and get back to regularly. Though, this repo feels more like a Note to Self than a collection of snippets.
 
-_13 TILs and counting..._
+_14 TILs and counting..._
 
 ---
 
 ## Categories <!-- omit in toc -->
 
 - [AutoHotkey](#autohotkey)
+- [CSS](#css)
 - [Git](#git)
 - [Google Colab](#google-colab)
 - [Jupyter](#jupyter)
@@ -20,6 +21,10 @@ _13 TILs and counting..._
 
 -   [Open Windows Terminal with the Linux Shortcut](autohotkey/open-terminal.md)
 -   [Moving the mouse pointer to keep screen active](autohotkey/keep-mouse-pointer-active.md)
+
+### CSS
+
+-   [Dark Mode](css/dark-mode.md)
 
 ### Git
 
