@@ -2,7 +2,7 @@
 
 A collection of small snippets of mostly technical stuff that I learn and get back to regularly. Though, this repo feels more like a Note to Self than a collection of snippets.
 
-_14 TILs and counting..._
+_16 TILs and counting..._
 
 ---
 
@@ -12,6 +12,7 @@ _14 TILs and counting..._
 - [CSS](#css)
 - [Git](#git)
 - [Google Colab](#google-colab)
+- [Java](#java)
 - [Jupyter](#jupyter)
 - [Numerics](#numerics)
 - [PowerShell](#powershell)
@@ -38,6 +39,10 @@ _14 TILs and counting..._
 -   [Prevent Colab Session from Disconnecting](google-colab/prevent-disconnect.md)
 -   [Clone GitHub Repo in Colab](google-colab/clone-repo.md)
 
+### Java
+
+-   [Use Lombok to automatically define methods](java/lombok.md)
+
 ### Jupyter
 
 -   [Show Execution Time for each Cell](jupyter/show-cell-execution-time.md)
@@ -54,6 +59,7 @@ _14 TILs and counting..._
 
 -   [Store a Dictionary with Numpy Arrays as a JSON object](python/store-dictionary-with-numpy-arrays-as-json.md)
 -   [Fix Dependency Errors in Conda](python/fix-dependency-errors-in-conda.md)
+-   [Python Dataclass](python/python-dataclass.md)
 
 ---
 
