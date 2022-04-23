@@ -2,7 +2,7 @@
 
 A collection of small snippets of mostly technical stuff that I learn and get back to regularly. Though, this repo feels more like a Note to Self than a collection of snippets.
 
-_17 TILs and counting..._
+_18 TILs and counting..._
 
 ---
 
@@ -38,6 +38,7 @@ _17 TILs and counting..._
 
 -   [Prevent Colab Session from Disconnecting](google-colab/prevent-disconnect.md)
 -   [Clone GitHub Repo in Colab](google-colab/clone-repo.md)
+-   [Adding file from Drive](google-colab/add-file-from-drive.md)
 
 ### Java
 
