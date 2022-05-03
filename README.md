@@ -2,7 +2,7 @@
 
 A collection of small snippets of mostly technical stuff that I learn and get back to regularly. Though, this repo feels more like a Note to Self than a collection of snippets.
 
-_18 TILs and counting..._
+_19 TILs and counting..._
 
 ---
 
@@ -15,8 +15,8 @@ _18 TILs and counting..._
 - [Java](#java)
 - [Jupyter](#jupyter)
 - [Numerics](#numerics)
-- [PowerShell](#powershell)
 - [Python](#python)
+- [Shell](#shell)
 
 ### AutoHotkey
 
@@ -52,16 +52,17 @@ _18 TILs and counting..._
 
 -   [Finding the average of two very big integers](numerics/finding-the-average-of-two-very-big-integers.md)
 
-### PowerShell
-
--   [Recursive Touch Command in PowerShell](powershell/recursive-touch.md)
-
 ### Python
 
 -   [Store a Dictionary with Numpy Arrays as a JSON object](python/store-dictionary-with-numpy-arrays-as-json.md)
 -   [Fix Dependency Errors in Conda](python/fix-dependency-errors-in-conda.md)
 -   [Use Dataclass to automatically create special functions](python/dataclass.md)
 -   [Default Dictionary Values](python/defaultdict.md)
+
+### Shell
+
+-   [Recursive Touch Command in PowerShell](shell/recursive-touch.md)
+-   [Kill a process occupying a port](shell/kill-port-process.md)
 
 ---
 
