@@ -6,7 +6,7 @@ To show the execution time of each cell in a Jupyter Notebook, we can use the fo
 try:
     %load_ext autotime
 except:
-    !pip install ipython-autotime
+    !pip install ipython-autotime -q
     %load_ext autotime
 ```
 
