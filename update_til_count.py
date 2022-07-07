@@ -24,34 +24,30 @@ def get_til_counts() -> int:
     return count
 
 
-def write_readme_contents(contents: str) -> None:
+def update_readme_count(old_readme_contents: str, til_count: int) -> None:
+    new_readme_contents = re.sub(
+        r"_\d+ TILs and counting..._",
+        f"_{til_count} TILs and counting..._",
+        old_readme_contents,
+    )
+
     with open("README.md", "w", encoding="utf-8") as readme:
-        readme.write(contents)
+        readme.write(new_readme_contents)
 
 
 if __name__ == "__main__":
     try:
-        # Get the readme content
-        readme_contents = get_readme_contents()
+        old_readme_contents = get_readme_contents()
 
-        # Get the number of TIL files
         til_count = get_til_counts()
 
-        # Update the TIL count in the readme content
-        readme_contents = re.sub(
-            r"_\d+ TILs and counting..._",
-            f"_{til_count} TILs and counting..._",
-            readme_contents,
-        )
-
-        # Write back thee updated content to the readme file
-        write_readme_contents(readme_contents)
+        update_readme_count(old_readme_contents, til_count)
 
         print(f"Updated the TIL count in the README.md to {til_count}")
 
         # Add the modified README file to the staging area for it to be committed
         subprocess.run(["git", "add", "README.md"])
 
-        print("README.md added to the staging area.")
+        print("README.md staged for commit")
     except Exception as e:
         print("Error:", e)
