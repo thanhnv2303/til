@@ -2,7 +2,7 @@
 
 A collection of small snippets of mostly technical stuff that I learn and get back to regularly. Though, this repo feels more like a Note to Self than a collection of snippets.
 
-_22 TILs and counting..._
+_23 TILs and counting..._
 
 ---
 
@@ -36,6 +36,7 @@ _22 TILs and counting..._
 -   [Undo changes of last commit](git/undo-last-commit.md)
 -   [Create an empty commit](git/create-empty-commit.md)
 -   [Navigating to other commits](git/navigate-to-other-commits.md)
+-   [Split branch by files modified](git/split-branch-by-files-modified.md)
 
 ### Google Colab
 
