@@ -2,7 +2,7 @@
 
 A collection of small snippets of mostly technical stuff that I learn and get back to regularly. Though, this repo feels more like a Note to Self than a collection of snippets.
 
-_19 TILs and counting..._
+_21 TILs and counting..._
 
 ---
 
@@ -31,8 +31,10 @@ _19 TILs and counting..._
 
 -   [Consistent LF Endings in Git](git/consistent-lf-endings.md)
 -   [Delete remote and local remote-tracking branch](git/delete-remote-branch.md)
--   [A better Git Log](git/better-git-log.md)
--   [Uncommit last Commit](git/uncommit-last-commit.md)
+-   [A better Git log](git/better-git-log.md)
+-   [Uncommit last commit](git/uncommit-last-commit.md)
+-   [Undo changes of last commit](git/undo-last-commit.md)
+-   [Create an empty commit](git/create-empty-commit.md)
 
 ### Google Colab
 

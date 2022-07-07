@@ -1,6 +1,8 @@
 # Uncommit last commit
 
-Since there's a no direct meaning of 'uncommit' in git, I'll use the term here to mean **moving changes from the last commit to the staging area**.
+**Related: [Undo changes of last commit](undo-last-commit.md)**
+
+Since there's a no direct meaning of 'uncommit' for a commit in Git, I'll use the term here to mean **moving changes from the last commit to the staging area**.
 
 To move the changes done in the last commit to the staging area:
 

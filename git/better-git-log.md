@@ -1,6 +1,6 @@
 # A better Git log
 
-Git log usually shows up more information than needed for a quick glance of the commit history. TO view a pretty-printed tree structure of the commit tree with the position of all the branches, we can add the following lines in the `.gitconfig` file:
+Git log usually shows up more information than needed for a quick glance of the commit history. To view a pretty-printed tree structure of the commit tree with the position of all the branches, we can add the following lines in the `.gitconfig` file:
 
 ```bash
 [alias]
