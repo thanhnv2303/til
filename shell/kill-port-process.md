@@ -20,4 +20,4 @@ netstat -a -n -o | findStr "4200"
 taskkill -f /pid 11128
 ```
 
-Source: [Kavinda Senarathne's answer to "Port 4200 is already in use" when running the ng serve command](https://stackoverflow.com/a/64960678/10307491)
+Source: ["Port 4200 is already in use" when running the ng serve command](https://stackoverflow.com/a/64960678/10307491)

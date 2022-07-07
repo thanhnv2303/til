@@ -18,4 +18,4 @@ git restore --source=HEAD^ files/to/undo
 
 Then, a commit would commit the changes to the tree.
 
-SOurce: [git restore](https://www.git-tower.com/learn/git/commands/git-restore), [Git - git-restore Documentation](https://git-scm.com/docs/git-restore)
+Source: [git restore](https://www.git-tower.com/learn/git/commands/git-restore), [Git - git-restore Documentation](https://git-scm.com/docs/git-restore)

@@ -2,7 +2,7 @@
 
 A collection of small snippets of mostly technical stuff that I learn and get back to regularly. Though, this repo feels more like a Note to Self than a collection of snippets.
 
-_21 TILs and counting..._
+_22 TILs and counting..._
 
 ---
 
@@ -15,8 +15,8 @@ _21 TILs and counting..._
 - [Java](#java)
 - [Jupyter](#jupyter)
 - [Numerics](#numerics)
-- [PowerShell](#powershell)
 - [Python](#python)
+- [Shell](#shell)
 
 ### AutoHotkey
 
@@ -35,6 +35,7 @@ _21 TILs and counting..._
 -   [Uncommit last commit](git/uncommit-last-commit.md)
 -   [Undo changes of last commit](git/undo-last-commit.md)
 -   [Create an empty commit](git/create-empty-commit.md)
+-   [Navigating to other commits](git/navigate-to-other-commits.md)
 
 ### Google Colab
 
@@ -54,16 +55,17 @@ _21 TILs and counting..._
 
 -   [Finding the average of two very big integers](numerics/finding-the-average-of-two-very-big-integers.md)
 
-### PowerShell
-
--   [Recursive Touch Command in PowerShell](powershell/recursive-touch.md)
-
 ### Python
 
 -   [Store a Dictionary with Numpy Arrays as a JSON object](python/store-dictionary-with-numpy-arrays-as-json.md)
 -   [Fix Dependency Errors in Conda](python/fix-dependency-errors-in-conda.md)
 -   [Use Dataclass to automatically create special functions](python/dataclass.md)
 -   [Default Dictionary Values](python/defaultdict.md)
+
+### Shell
+
+-   [Recursive Touch Command in PowerShell](shell/recursive-touch.md)
+-   [Kill a process occupying a port](shell/kill-port-process.md)
 
 ---
 
