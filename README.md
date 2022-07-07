@@ -65,6 +65,10 @@ _19 TILs and counting..._
 
 ---
 
+## Note on TIL Count Update <!-- omit in toc -->
+
+A [pre-commit](https://pre-commit.com/#installation) hook is configured to run the `update_til_count.py` script before each commit to auto-updated the TIL count in this README.
+
 ## Inspiration <!-- omit in toc -->
 
 I got the inspiration for this from [Josh Branchaud](https://joshbranchaud.com/)'s repository [jbranchaud/til](https://github.com/jbranchaud/til). I first read about the idea of documenting what I learn in [Shawn Wang](https://www.swyx.io/)'s blog [Learn in Public](https://www.swyx.io/learn-in-public/).
