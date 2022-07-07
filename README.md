@@ -15,8 +15,8 @@ _19 TILs and counting..._
 - [Java](#java)
 - [Jupyter](#jupyter)
 - [Numerics](#numerics)
+- [PowerShell](#powershell)
 - [Python](#python)
-- [Shell](#shell)
 
 ### AutoHotkey
 
@@ -30,7 +30,7 @@ _19 TILs and counting..._
 ### Git
 
 -   [Consistent LF Endings in Git](git/consistent-lf-endings.md)
--   [Delete Remote Branch](git/delete-remote-branch.md)
+-   [Delete remote and local remote-tracking branch](git/delete-remote-branch.md)
 -   [A better Git Log](git/better-git-log.md)
 -   [Uncommit last Commit](git/uncommit-last-commit.md)
 
@@ -52,17 +52,16 @@ _19 TILs and counting..._
 
 -   [Finding the average of two very big integers](numerics/finding-the-average-of-two-very-big-integers.md)
 
+### PowerShell
+
+-   [Recursive Touch Command in PowerShell](powershell/recursive-touch.md)
+
 ### Python
 
 -   [Store a Dictionary with Numpy Arrays as a JSON object](python/store-dictionary-with-numpy-arrays-as-json.md)
 -   [Fix Dependency Errors in Conda](python/fix-dependency-errors-in-conda.md)
 -   [Use Dataclass to automatically create special functions](python/dataclass.md)
 -   [Default Dictionary Values](python/defaultdict.md)
-
-### Shell
-
--   [Recursive Touch Command in PowerShell](shell/recursive-touch.md)
--   [Kill a process occupying a port](shell/kill-port-process.md)
 
 ---
 

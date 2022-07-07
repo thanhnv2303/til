@@ -1,8 +1,23 @@
-# Uncommit last Commit
+# Uncommit last commit
 
-There's a no direct command to uncommit the last commit in git. Adding the following line to the `.gitconfig` file can be used to do this:
+Since there's a no direct meaning of 'uncommit' in git, I'll use the term here to mean **moving changes from the last commit to the staging area**.
+
+To move the changes done in the last commit to the staging area:
 
 ```bash
-[alias]
-    uncommit = reset HEAD~
+git reset --soft HEAD^
 ```
+
+**Additionally after this 'uncommit', we may be interested to do the following operations:**
+
+-   To remove a file from the staging area to the working directory:
+    ```bash
+    git reset HEAD /file/to/delete
+    ```
+
+-   To remove a file file from the staging area **and also the index** (i.e. tell git not to track it):
+    ```bash
+    git rm --cached /file/to/delete
+    ```
+
+Source: [Remove files from Git commit](https://stackoverflow.com/a/72024194/10307491)

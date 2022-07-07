@@ -5,7 +5,7 @@ Python's DataClass Module are similar to [Java's Lombok decorators](../java/lomb
 -   `__init__`
 -   `__repr__()`
 -   `__eq__()`
--   `__lt()`, `__le()`, `__gt()`, `__ge()` if `order=True` is passed.
+-   `__lt()`, `__le()`, `__gt()`, `__ge()` (if the argument `order=True` is passed in the decorator)
 
 Example:
 
@@ -21,3 +21,5 @@ n = Node('baz', 1)
 
 print(n) # Node(foo='baz', bar=1)
 ```
+
+Source: [dataclasses — Data Classes — Python 3.10.5 documentation](https://docs.python.org/3/library/dataclasses.html)

@@ -4,7 +4,7 @@ Git log usually shows up more information than needed for a quick glance of the 
 
 ```bash
 [alias]
-	lg = log --graph --all --branches --oneline --decorate --pretty=format:'%C(yellow)%h%Creset -%C(auto)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset'
+    lg = log --graph --all --branches --oneline --decorate --prty=format:'%C(yellow)%h%Creset -%C(auto)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset'
 ```
 
 Source: [A better git log](https://coderwall.com/p/euwpig/a-better-git-log)

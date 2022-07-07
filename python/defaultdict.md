@@ -1,6 +1,8 @@
 # Default Dictionary Values
 
-By default, it a Python dictionary does not contain a key, it returns `None`. This can be avoided by passing a second 'default' parameter to the `get()` method.
+There are two methods to get a value corresponding to a key in a dictionary `d` - `d[key]` and `d.get(key)`. The first method throws a `KeyError` when the key is not found in the dictionary, while the second method returns `None` if the key is not found.
+
+The second method can be improved by passing a default value as a second argument like `d.get(key, default)`. This would return the default value if the key is not found in the dictionary.
 
 There is a more elegant method to do this using the `colllection` library's `defaultdict` class.
 
