@@ -2,7 +2,7 @@
 
 A collection of small snippets of mostly technical stuff that I learn and get back to regularly. Though, this repo feels more like a Note to Self than a collection of snippets.
 
-_23 TILs and counting..._
+_24 TILs and counting..._
 
 ---
 
@@ -62,6 +62,7 @@ _23 TILs and counting..._
 -   [Fix Dependency Errors in Conda](python/fix-dependency-errors-in-conda.md)
 -   [Use Dataclass to automatically create special functions](python/dataclass.md)
 -   [Default Dictionary Values](python/defaultdict.md)
+-   [Create and use a virtual environment](python/virtualenv.md)
 
 ### Shell
 
