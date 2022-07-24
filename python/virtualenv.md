@@ -18,7 +18,7 @@ On Windows, run:
 $ .\env\Scripts\activate
 ```
 
-On Unix or MacOS, run:
+On Linux or MacOS, run:
 
 ```bash
 $ source ./env/bin/activate
