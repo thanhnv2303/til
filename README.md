@@ -37,7 +37,7 @@ _24 TILs and counting..._
 -   [Create an empty commit](git/create-empty-commit.md)
 -   [Navigating to other commits](git/navigate-to-other-commits.md)
 -   [Split branch by files modified](git/split-branch-by-files-modified.md)
--   [Fast-forward merge a branch without checkout](git/fast-forward-merge-without-checkou.md)
+-   [Merge a remote branch without checkout](git/merge-remote-branch-without-checkout.md)
 
 ### Google Colab
 
