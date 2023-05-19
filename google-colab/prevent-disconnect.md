@@ -7,7 +7,7 @@ function ClickConnect() {
     console.log("Working");
     document.querySelector("colab-connect-button").shadowRoot.querySelector("#connect").click()
 }
-setInterval(ClickConnect, 180000);
+setInterval(ClickConnect, 90000);
 ```
 
 Source: [How to prevent Google Colab from disconnecting ?](https://medium.com/@shivamrawat_756/how-to-prevent-google-colab-from-disconnecting-717b88a128c0)
