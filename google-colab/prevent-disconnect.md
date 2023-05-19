@@ -5,7 +5,7 @@ Running long sessions on [Google Colab](https://colab.research.google.com) witho
 ```javascript
 function ClickConnect() {
     console.log("Working");
-    document.querySelector("colab-toolbar-button").click();
+    document.querySelector("colab-connect-button").shadowRoot.querySelector("#connect").click()
 }
 setInterval(ClickConnect, 60000);
 ```
